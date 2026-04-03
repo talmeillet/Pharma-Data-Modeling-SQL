@@ -18,6 +18,8 @@ Key processes modeled include:
 Developed a comprehensive **Entity-Relationship Diagram (ERD)** to define entities, attributes, and relationships. 
 * **Cardinality Rules:** Defined strict relationships, such as trials requiring at least 20 patients and medications requiring at least 4 trial phases for production.
 * **Normalization:** Ensured data integrity by splitting complex attributes (e.g., composite names) and handling multi-valued attributes.
+  <img width="1050" height="531" alt="image" src="https://github.com/user-attachments/assets/39b95057-2b72-44ea-91d9-ab009a23d045" />
+
 
 ### **2. SQL Engineering**
 Implemented the relational schema using **MariaDB/MySQL**. Key technical features include:
