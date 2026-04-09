@@ -1,4 +1,4 @@
-# Pharmaceutical R&D Data Modeling & SQL Implementation (GSK Case Study)
+# Pharmaceutical R&D Data Modeling & SQL Implementation 
 
 ## **Overview**
 This project focuses on the end-to-end database design and characterization for a pharmaceutical leader. The goal was to build a robust system capable of tracking the complex lifecycle of drug development-from the initial research phase and clinical trials to regulatory approval and commercialization.
